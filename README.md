@@ -1,6 +1,6 @@
 # SoftUni---CSharp-OOP
 
-#### [Link(https://softuni.bg/trainings/2453/csharp-oop-october-2019/internal#lesson-12791)]
+#### [Link(https://softuni.bg/trainings/2453/csharp-oop-october-2019/internal#lesson-12791)] to course
 
 ## Lectures
 1. Working with Abstraction
